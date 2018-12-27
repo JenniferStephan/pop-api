@@ -156,7 +156,7 @@ Nom de la base : Photographies (Mémoire)
 |String|false|true|false||
 
 ### CONTIENT_IMAGE
-Champ généré à chaque sauvegarde de la notice. Si notice contient des images, la valeur du champs sera oui', sinon 'non'. Ce champs est utilisé pour l'affichage de la phototèque mais pourrait être supprimé et remplacer par une fonction exist dans ES
+Champ généré à chaque sauvegarde de la notice. Si notice contient des images, i.e. si le champ IMG contient une valeur, la valeur du champs sera oui', sinon 'non'. Ce champs est utilisé pour l'affichage de la phototèque mais pourrait être supprimé et remplacer par une fonction exist dans ES
 
 
 
